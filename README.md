@@ -12,12 +12,13 @@ Determine the optimal campaign launch dates for theater campaigns and to underst
 ### Analysis of Outcomes Based on Launch Date
 I created a pivot table and sorted each project into a range based on the month it launched and captured the project's funding outcomes. I used this data to chart the determine the best months to start a Kickstarter campaign.
 
-![Outcomes vs Goals](https://github.com/skanab/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png?raw=true)
+![Theater Outcomes vs Launch](https://github.com/skanab/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+
 
 ### Analysis of Outcomes Based on Goals
 I crated goal dollar amount ranges and sorted the play projects into their corresponding goal range with the countifs formula. I used the summarized data to visualize the percentage of successful, failed, and canceled plays based on its goal range.
 
-![Theater Outcomes vs Launch](https://github.com/skanab/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
+![Outcomes vs Goals](https://github.com/skanab/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
