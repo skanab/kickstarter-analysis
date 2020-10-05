@@ -17,7 +17,7 @@ I created a pivot table and sorted each project into a range based on the month 
 ### Analysis of Outcomes Based on Goals
 I crated goal dollar amount ranges and sorted the play projects into their corresponding goal range with the countifs formula. I used the summarized data to visualize the percentage of successful, failed, and canceled plays based on its goal range.
 
-<Insert Graph>
+![Theater Outcomes vs Launch](https://github.com/skanab/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Challenges and Difficulties Encountered
 
